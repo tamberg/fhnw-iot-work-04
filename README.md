@@ -16,6 +16,7 @@ For slides and example code, see [lesson 4](../../../fhnw-iot/blob/master/04/REA
 * API endpoints, protocols, data formats, queries.
 * Try to control the Philips Hue light bulbs in class.
 * Take notes about links, tools, requests used.
+* Commit the file, ideally plain text.
 
 ### c) CoAP, 15'
 * Download a CoAP client and server [implementation](https://coap.technology/impls.html).
