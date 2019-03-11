@@ -5,8 +5,36 @@ For slides and example code, see [lesson 4](../../../fhnw-iot/blob/master/04/REA
 > *Note: Do not work on this repository right away.*<br/>
 > *[Check existing forks to find the specific repository for your class.](../../network/members)*
 
-### a) X, 0'
-* X.
+### a) Web services, 15'
+* Build and run the previous Web service examples.
+* Use the .ino link on each page to find the source.
+* The examples are in the course repository.
+* Make sure to use the ESP8266 board.
+
+### b) Philips Hue, 15'
+* Read the API documentation to find the following:
+* API endpoints, protocols, data formats, queries.
+* Try to control the Philips Hue light bulbs in class.
+* Take notes about links, tools, requests used.
+
+### c) CoAP, 15'
+* Download a CoAP client and server [implementation](https://coap.technology/impls.html).
+* Run it on your laptop or on the ESP8266, if possible.
+* Consider using a testing service like http://coap.me/
+
+### d) IKEA Tradfri, 15'
+* Search for hints about the API to find the following:
+* API endpoints, protocols, data formats, queries.
+* Try to access the IKEA Tradfri gateway in class.
+* Take notes about links, tools, requests used.
+* Commit the file, ideally plain text.
+
+### e) Homework, max. 3h
+* Write a connected display service on the ESP8266.
+* Create a RESTful Web API for the [4-digit display](https://github.com/tamberg/fhnw-iot/wiki/Grove-Actuators#4-digit-display).
+* The API/Web UI should be self-documenting.
+* Print the local IP address to the console.
+* Commit to the hands-on repo.
 
 ### Submitting results
 * [Commit and push](#git) local changes to your repository.
