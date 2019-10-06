@@ -8,15 +8,17 @@ For slides and example code, see [lesson 4](../../../fhnw-iot/blob/master/04/REA
 ### a) Web services, 15'
 * Build and run the previous Web service examples.
 * Use the .ino link on each page to find the source.
-* The examples are in the course repository.
-* Make sure to use the ESP8266 board.
+* Check the serial monitor to see the server IP.
+* Use your browser and Curl as Web clients.
+* Is there a difference between clients?
+* Done? Here's a bonus [example](https://github.com/tamberg/fhnw-iot/blob/master/04/Arduino/ESP8266_WebServerSecureBasicAuth/ESP8266_WebServerSecureBasicAuth.ino).
 
-### b) Philips Hue, 15'
+### b) Philips Hue API, 15'
 * Read the API documentation to find the following:
 * API endpoints, protocols, data formats, queries.
-* Try to control the Philips Hue light bulbs in class.
-* Take notes about links, tools, requests used.
-* Commit the file, ideally plain text.
+* Try to control the Philips Hue lights in class.
+* Take notes on links, tools, requests used.
+* Commit the notes, ideally plain text.
 
 ### c) CoAP, 15'
 * Download a CoAP client and server [implementation](https://coap.technology/impls.html).
@@ -33,8 +35,8 @@ For slides and example code, see [lesson 4](../../../fhnw-iot/blob/master/04/REA
 ### e) Homework, max. 3h
 * Write a connected display service on the ESP8266.
 * Create a RESTful Web API for the [4-digit display](https://github.com/tamberg/fhnw-iot/wiki/Grove-Actuators#4-digit-display).
-* The API/Web UI should be self-documenting.
-* Print the local IP address to the console.
+* Document the HTTP calls your API can handle.
+* Print the service IP address to the console.
 * Commit to the hands-on repo.
 
 ### Submitting results
