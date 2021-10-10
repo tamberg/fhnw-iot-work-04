@@ -11,7 +11,7 @@ For slides and example code, see [lesson 4](../../../fhnw-iot/blob/master/04/REA
 * Check the serial monitor to see the server IP.
 * Use your browser and Curl as Web clients.
 * Is there a difference between clients?
-* Done? Here's a bonus [example](https://github.com/tamberg/fhnw-iot/blob/master/04/Arduino/ESP8266_WebServerSecureBasicAuth/ESP8266_WebServerSecureBasicAuth.ino).
+* Done? Here's a bonus [example](https://github.com/tamberg/fhnw-iot/blob/master/04/Arduino/ESP8266_WebServerSecureBasicAuth/ESP8266_WebServerSecureBasicAuth.ino) to study.
 
 ### b) Philips Hue API, 15'
 * Read the API documentation to find the following:
