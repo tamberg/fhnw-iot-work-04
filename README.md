@@ -18,7 +18,6 @@ For slides and example code, see [lesson 4](../../../fhnw-iot/blob/master/04/REA
 * API endpoints, protocols, data formats, queries.
 * Try to control the Philips Hue lights in class.
 * Take notes on links, tools, requests used.
-* Commit the notes, ideally plain text.
 
 ### c) CoAP, 15'
 * Download a CoAP client and server [implementation](https://coap.technology/impls.html).
@@ -30,9 +29,8 @@ For slides and example code, see [lesson 4](../../../fhnw-iot/blob/master/04/REA
 * API endpoints, protocols, data formats, queries.
 * Try to access the IKEA Tradfri gateway in class.
 * Take notes about links, tools, requests used.
-* Commit the file, ideally plain text.
 
-### e) Homework, max. 3h
+### e) Challenge
 * Write a connected display service on the ESP8266.
 * Create a RESTful Web API for the [4-digit display](https://github.com/tamberg/fhnw-iot/wiki/Grove-Actuators#4-digit-display).
 * Document the HTTP calls your API can handle.
